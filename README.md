@@ -1,2 +1,2 @@
 # Demo-repo
-It is a demo repo.
+It is a demo repo - delta batch.
